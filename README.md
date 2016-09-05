@@ -1,2 +1,2 @@
 # test
-crudest
+Spring MVC + JAP + JSON + AJAX crud test
