@@ -55,4 +55,7 @@
 			</list>
 		</property>
 	</bean>
+	<mvc:resources mapping="/js/*.js" location="/static/js/" />
+	<mvc:resources mapping="/css/*.css" location="/static/css/" />
+	<mvc:resources mapping="/imgs/*.jpg" location="/static/imgs/" />
 </beans>

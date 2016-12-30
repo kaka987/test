@@ -1,5 +1,5 @@
 # test
-Spring MVC + JAP + JSON + AJAX crud test
+Spring MVC + JAP + AngularJS + AJAX crud test
 
 SQL: src/main/resources/accounts.sql
 
